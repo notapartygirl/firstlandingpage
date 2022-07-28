@@ -126,6 +126,7 @@ body {
 }
 
 .item-description {
+	margin-bottom: 85px;
 	font-size: 32px;
 	line-height: 30px;
 	font-weight: 300;
