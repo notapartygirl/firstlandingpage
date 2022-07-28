@@ -102,6 +102,12 @@ body {
 }
 
 .item-wrapper {
+	margin-bottom: 85px;
+	margin: 0 auto;
+	width: 417px;
+}
+
+.item-img-wrapper {
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -109,12 +115,6 @@ body {
 	width: 417px;
 	height: 630px;
 	background-color: #f8f8f8;
-}
-
-.item-img-wrapper {
-	margin-bottom: 85px;
-	margin: 0 auto;
-	width: 417px;
 }
 
 .item-title {
