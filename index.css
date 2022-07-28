@@ -23,7 +23,7 @@ body {
 
 .header-container {
 	display: flex;
-	width: 1360px;
+	width: 1350px;
 	padding-top: 104px;
 	padding-left: 133px;
 	padding-right: 133px;
@@ -80,9 +80,9 @@ body {
 
 .header-img {
 	display: block;
-	width: 472px;
+	width: 372px;
 	margin-top: -104px;
-	margin-left: -50px;
+	margin-left: -70px;
 }
 
 .popular-title {
