@@ -23,7 +23,7 @@ body {
 
 .header-container {
 	display: flex;
-	width: 1350px;
+	width: 1345px;
 	padding-top: 104px;
 	padding-left: 133px;
 	padding-right: 133px;
@@ -80,7 +80,7 @@ body {
 
 .header-img {
 	display: block;
-	width: 372px;
+	width: 432px;
 	margin-top: -104px;
 	margin-left: -70px;
 }
